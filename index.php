@@ -108,4 +108,10 @@
 	</div>
 
 </body>
+<footer class="footer mt-auto py-3 bg-light">
+        <div class="container text-center">
+            <span class="text-muted">Copyright &copy;2020, <a href="https://www.linkedin.com/in/dhruva232/"> Dhruv Singh</a></span>
+        </div>
+    </footer>
+
 </html>
